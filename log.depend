@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732964647 source:c:\users\damia\desktop\cpp_projekty\log\main.cpp
+	"Logger.h"
+
+1732964648 c:\users\damia\desktop\cpp_projekty\log\logger.h
+	<iostream>
+	<vector>
+	<memory>
+	<string>
+
